@@ -1,10 +1,14 @@
 import type { VideoMetadata, VideoStatus, FrameInfo, TranscriptSegment, GroundedAnswer, BenchmarkMetrics } from '../types';
 
+// Backend URL: set VITE_API_BASE_URL in Vercel environment variables
+// e.g. https://videolens-backend-xxxx.onrender.com
+const API_BASE = import.meta.env.VITE_API_BASE_URL || '';
+
 export const api = {
   async uploadVideo(file: File): Promise<VideoMetadata> {
     const formData = new FormData();
     formData.append('file', file);
-    const res = await fetch('/api/video/upload', {
+    const res = await fetch(`${API_BASE}/api/video/upload`, {
       method: 'POST',
       body: formData,
     });
@@ -16,7 +20,7 @@ export const api = {
   },
 
   async loadDemoVideo(demoName: string = 'lecture'): Promise<VideoMetadata> {
-    const res = await fetch(`/api/video/load-demo?demo_name=${encodeURIComponent(demoName)}`, {
+    const res = await fetch(`${API_BASE}/api/video/load-demo?demo_name=${encodeURIComponent(demoName)}`, {
       method: 'POST',
     });
     if (!res.ok) {
@@ -27,7 +31,7 @@ export const api = {
   },
 
   async processVideo(videoId: string): Promise<void> {
-    const res = await fetch(`/api/video/${videoId}/process`, {
+    const res = await fetch(`${API_BASE}/api/video/${videoId}/process`, {
       method: 'POST',
     });
     if (!res.ok) {
@@ -37,7 +41,7 @@ export const api = {
   },
 
   async getVideoStatus(videoId: string): Promise<VideoStatus> {
-    const res = await fetch(`/api/video/${videoId}/status`);
+    const res = await fetch(`${API_BASE}/api/video/${videoId}/status`);
     if (!res.ok) {
       throw new Error('Failed to fetch video status');
     }
@@ -45,7 +49,7 @@ export const api = {
   },
 
   async getVideoFrames(videoId: string): Promise<FrameInfo[]> {
-    const res = await fetch(`/api/video/${videoId}/frames`);
+    const res = await fetch(`${API_BASE}/api/video/${videoId}/frames`);
     if (!res.ok) {
       throw new Error('Failed to fetch frames');
     }
@@ -53,7 +57,7 @@ export const api = {
   },
 
   async getVideoTranscript(videoId: string): Promise<TranscriptSegment[]> {
-    const res = await fetch(`/api/video/${videoId}/transcript`);
+    const res = await fetch(`${API_BASE}/api/video/${videoId}/transcript`);
     if (!res.ok) {
       throw new Error('Failed to fetch transcript');
     }
@@ -69,7 +73,7 @@ export const api = {
       modality_weights?: Record<string, number>;
     }
   ): Promise<GroundedAnswer> {
-    const res = await fetch(`/api/video/${videoId}/ask`, {
+    const res = await fetch(`${API_BASE}/api/video/${videoId}/ask`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -89,7 +93,7 @@ export const api = {
   },
 
   async runBenchmark(experimentType: string): Promise<BenchmarkMetrics[]> {
-    const res = await fetch('/api/evaluation/run', {
+    const res = await fetch(`${API_BASE}/api/evaluation/run`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -106,7 +110,7 @@ export const api = {
   },
 
   async getBenchmarkResults(): Promise<BenchmarkMetrics[]> {
-    const res = await fetch('/api/evaluation/results');
+    const res = await fetch(`${API_BASE}/api/evaluation/results`);
     if (!res.ok) {
       throw new Error('Failed to fetch benchmark results');
     }
