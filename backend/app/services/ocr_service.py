@@ -1,3 +1,4 @@
+import gc
 import cv2
 import uuid
 import numpy as np
@@ -107,5 +108,13 @@ class OCRService:
 
         logger.info(f"Selective OCR completed for {video_id}: {len(ocr_results)} text chunks detected.")
         return ocr_results
+
+    def unload(self):
+        """Release EasyOCR reader from memory to free RAM for next pipeline stage."""
+        if self._reader is not None:
+            del self._reader
+            self._reader = None
+            gc.collect()
+            logger.info("EasyOCR reader unloaded from memory.")
 
 ocr_service = OCRService()

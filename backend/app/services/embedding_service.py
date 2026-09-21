@@ -1,3 +1,4 @@
+import gc
 import torch
 import numpy as np
 from PIL import Image
@@ -87,5 +88,20 @@ class EmbeddingService:
             vec = model.encode_text(tokens)
             vec = vec / vec.norm(dim=-1, keepdim=True)
             return vec.cpu().numpy().squeeze(0).astype(np.float32)
+
+    def unload(self):
+        """Release all embedding models from memory to free RAM after pipeline use."""
+        if self._clip_model is not None:
+            del self._clip_model
+            del self._clip_preprocess
+            del self._clip_tokenizer
+            self._clip_model = None
+            self._clip_preprocess = None
+            self._clip_tokenizer = None
+        if self._text_model is not None:
+            del self._text_model
+            self._text_model = None
+        gc.collect()
+        logger.info("Embedding models (CLIP + SentenceTransformers) unloaded from memory.")
 
 embedding_service = EmbeddingService()

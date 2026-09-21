@@ -1,3 +1,4 @@
+import gc
 import uuid
 from pathlib import Path
 from typing import List, Dict, Any, Optional
@@ -71,5 +72,13 @@ class TranscriptionService:
             logger.error(f"Error during transcription of {video_id}: {e}", exc_info=True)
 
         return segments_list
+
+    def unload(self):
+        """Release model from memory to free RAM for next pipeline stage."""
+        if self._model is not None:
+            del self._model
+            self._model = None
+            gc.collect()
+            logger.info("Whisper model unloaded from memory.")
 
 transcription_service = TranscriptionService()

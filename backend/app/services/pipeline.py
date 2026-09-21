@@ -1,3 +1,4 @@
+import gc
 import traceback
 from pathlib import Path
 from app.config import settings
@@ -21,8 +22,11 @@ def update_video_progress(video_id: str, status: str, stage: str, error_message:
 
 def run_video_pipeline(video_id: str):
     """
-    Executes the complete VideoLens multimodal pipeline:
-    Sampling -> Transcription -> Selective OCR -> Multimodal Embeddings -> FAISS Indexing
+    Executes the complete VideoLens multimodal pipeline with memory-efficient
+    model loading: each heavy model is unloaded after its stage to stay within
+    free-tier RAM limits (512MB).
+
+    Stages: Sampling -> Transcription -> OCR -> Embeddings -> FAISS Indexing
     """
     logger.info(f"Starting VideoLens pipeline for {video_id}...")
     
@@ -36,28 +40,33 @@ def run_video_pipeline(video_id: str):
         video_path = Path(row[0])
 
     try:
-        # Stage 1: Frame Sampling & Redundancy Filtering
+        # Stage 1: Frame Sampling & Redundancy Filtering (no heavy ML, uses OpenCV)
         update_video_progress(video_id, status="processing", stage="sampling")
         frames = frame_sampler.extract_frames(video_id, video_path)
         logger.info(f"Pipeline: {len(frames)} frames extracted for {video_id}.")
+        gc.collect()
 
-        # Stage 2: Audio Extraction & Transcription
+        # Stage 2: Audio Extraction & Transcription (Whisper tiny ~70MB)
         update_video_progress(video_id, status="processing", stage="transcribing")
         wav_path = audio_processor.extract_audio(video_id, video_path)
         transcripts = transcription_service.transcribe(video_id, wav_path)
         logger.info(f"Pipeline: {len(transcripts)} speech segments transcribed for {video_id}.")
+        # ✅ Unload Whisper immediately to free ~70MB before loading EasyOCR
+        transcription_service.unload()
 
-        # Stage 3: Selective OCR
+        # Stage 3: Selective OCR (EasyOCR ~300-400MB)
         update_video_progress(video_id, status="processing", stage="ocr")
         ocr_chunks = ocr_service.extract_text_from_frames(video_id, frames)
         logger.info(f"Pipeline: {len(ocr_chunks)} OCR detections for {video_id}.")
+        # ✅ Unload EasyOCR immediately to free ~300-400MB before loading CLIP
+        ocr_service.unload()
 
-        # Stage 4: Multimodal Embeddings
+        # Stage 4: Multimodal Embeddings (CLIP ~350MB + SentenceTransformers ~90MB)
         update_video_progress(video_id, status="processing", stage="embedding")
         frame_paths = [Path(f["image_path"]) for f in frames]
         visual_embeddings = embedding_service.embed_images_batch(frame_paths)
 
-        # Build text chunks
+        # Build text chunks for semantic embedding
         text_chunks_meta = []
         text_strings = []
 
@@ -83,8 +92,10 @@ def run_video_pipeline(video_id: str):
             text_strings.append(o["text"])
 
         text_embeddings = embedding_service.embed_texts_semantic_batch(text_strings)
+        # ✅ Unload CLIP + SentenceTransformers to free ~440MB before FAISS indexing
+        embedding_service.unload()
 
-        # Stage 5: FAISS Vector Store Indexing
+        # Stage 5: FAISS Vector Store Indexing (lightweight, numpy only)
         update_video_progress(video_id, status="processing", stage="indexing")
         store = VectorStore(video_id)
         store.build_indices(
@@ -103,3 +114,11 @@ def run_video_pipeline(video_id: str):
         tb = traceback.format_exc()
         logger.error(f"Pipeline failed for {video_id}: {err_str}\n{tb}")
         update_video_progress(video_id, status="failed", stage="error", error_message=err_str)
+        # ✅ Always clean up on failure too
+        try:
+            transcription_service.unload()
+            ocr_service.unload()
+            embedding_service.unload()
+        except Exception:
+            pass
+        gc.collect()
