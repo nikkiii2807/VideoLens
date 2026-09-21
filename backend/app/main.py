@@ -14,17 +14,10 @@ app = FastAPI(
 )
 
 # CORS configuration
-ALLOWED_ORIGINS = [
-    "https://video-lens-dw4d.vercel.app",  # Vercel frontend
-    "https://videolens-nw67.onrender.com", # Render backend (self, for health checks)
-    "http://localhost:5173",               # Local Vite dev server
-    "http://localhost:3000",               # Alternative local dev
-    os.getenv("FRONTEND_URL", ""),         # Extra override via env var
-]
-
+# CORS configuration — allow all Vercel preview URLs + localhost
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[o for o in ALLOWED_ORIGINS if o],
+    allow_origin_regex=r"https://.*\.vercel\.app|http://localhost:\d+",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
