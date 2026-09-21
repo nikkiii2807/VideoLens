@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: videolens-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    plan: free
+    envVars:
+      - key: DEBUG
+        value: false
+      - key: LLM_PROVIDER
+        value: gemini
+      - key: GEMINI_API_KEY
+        sync: false          # You'll paste this in Render dashboard
+      - key: OPENAI_API_KEY
+        sync: false          # Optional – set if needed
+      - key: FRONTEND_URL
+        value: https://video-lens-dw4d.vercel.app
+      - key: MAX_FILE_SIZE_MB
+        value: 50
+      - key: SAMPLING_FPS
+        value: "2.0"

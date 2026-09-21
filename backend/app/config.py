@@ -1,21 +1,22 @@
 import os
+import sys
 from pathlib import Path
 from pydantic import BaseModel
 from dotenv import load_dotenv
-
 import shutil
 
-# Ensure Winget packages are in os.environ["PATH"]
-winget_bins = [
-    Path(os.environ.get("LOCALAPPDATA", "")) / "Microsoft/WinGet/Packages/Gyan.FFmpeg.Essentials_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-9.0.1-essentials_build/bin",
-    Path(os.environ.get("LOCALAPPDATA", "")) / "Microsoft/WinGet/Packages/OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe/node-v24.19.0-win-arm64",
-    Path(os.environ.get("LOCALAPPDATA", "")) / "Programs/node",
-    Path(os.environ.get("LOCALAPPDATA", "")) / "bin",
-    Path.home() / ".local/bin",
-]
-for p in winget_bins:
-    if p.exists() and str(p) not in os.environ.get("PATH", ""):
-        os.environ["PATH"] = f"{p};{os.environ.get('PATH', '')}"
+# On Windows, add local bin paths for ffmpeg etc.
+if sys.platform == "win32":
+    winget_bins = [
+        Path(os.environ.get("LOCALAPPDATA", "")) / "Microsoft/WinGet/Packages/Gyan.FFmpeg.Essentials_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-9.0.1-essentials_build/bin",
+        Path(os.environ.get("LOCALAPPDATA", "")) / "Microsoft/WinGet/Packages/OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe/node-v24.19.0-win-arm64",
+        Path(os.environ.get("LOCALAPPDATA", "")) / "Programs/node",
+        Path(os.environ.get("LOCALAPPDATA", "")) / "bin",
+        Path.home() / ".local/bin",
+    ]
+    for p in winget_bins:
+        if p.exists() and str(p) not in os.environ.get("PATH", ""):
+            os.environ["PATH"] = f"{p};{os.environ.get('PATH', '')}"
 
 FFMPEG_BIN = shutil.which("ffmpeg") or "ffmpeg"
 FFPROBE_BIN = shutil.which("ffprobe") or "ffprobe"
@@ -34,7 +35,7 @@ class Settings(BaseModel):
     APP_NAME: str = "VideoLens — Multimodal Video Understanding & Grounded QA"
     VERSION: str = "1.0.0"
     DEBUG: bool = os.getenv("DEBUG", "true").lower() == "true"
-    HOST: str = os.getenv("HOST", "127.0.0.1")
+    HOST: str = os.getenv("HOST", "0.0.0.0")
     PORT: int = int(os.getenv("PORT", "8000"))
 
     # Limits & Validation

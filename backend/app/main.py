@@ -1,3 +1,4 @@
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
@@ -13,9 +14,16 @@ app = FastAPI(
 )
 
 # CORS configuration
+ALLOWED_ORIGINS = [
+    "https://video-lens-dw4d.vercel.app",  # Vercel frontend
+    "http://localhost:5173",               # Local Vite dev server
+    "http://localhost:3000",               # Alternative local dev
+    os.getenv("FRONTEND_URL", ""),         # Extra override via env var
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[o for o in ALLOWED_ORIGINS if o],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
