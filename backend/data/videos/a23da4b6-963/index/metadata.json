@@ -1,0 +1,291 @@
+{
+  "video_id": "a23da4b6-963",
+  "visual_metadata": [
+    {
+      "frame_id": "a23da4b6-963_f0000",
+      "frame_idx": 0,
+      "timestamp": 0.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\a23da4b6-963\\frames\\frame_0000_0.00s.jpg",
+      "difference_score": 1.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "a23da4b6-963_f0001",
+      "frame_idx": 1,
+      "timestamp": 2.4,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\a23da4b6-963\\frames\\frame_0001_2.40s.jpg",
+      "difference_score": 0.0104,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "a23da4b6-963_f0002",
+      "frame_idx": 2,
+      "timestamp": 4.8,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\a23da4b6-963\\frames\\frame_0002_4.80s.jpg",
+      "difference_score": 0.0565,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "a23da4b6-963_f0003",
+      "frame_idx": 3,
+      "timestamp": 7.2,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\a23da4b6-963\\frames\\frame_0003_7.20s.jpg",
+      "difference_score": 0.0135,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "a23da4b6-963_f0004",
+      "frame_idx": 4,
+      "timestamp": 9.6,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\a23da4b6-963\\frames\\frame_0004_9.60s.jpg",
+      "difference_score": 0.0133,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "a23da4b6-963_f0005",
+      "frame_idx": 5,
+      "timestamp": 12.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\a23da4b6-963\\frames\\frame_0005_12.00s.jpg",
+      "difference_score": 0.0085,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "a23da4b6-963_f0006",
+      "frame_idx": 6,
+      "timestamp": 14.4,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\a23da4b6-963\\frames\\frame_0006_14.40s.jpg",
+      "difference_score": 0.0085,
+      "is_keyframe": true
+    }
+  ],
+  "text_metadata": [
+    {
+      "type": "transcript",
+      "id": "a23da4b6-963_t0000",
+      "timestamp": 0.0,
+      "end_time": 3.0,
+      "text": "Welcome to the Videolens Multimodal Lecture."
+    },
+    {
+      "type": "transcript",
+      "id": "a23da4b6-963_t0001",
+      "timestamp": 3.0,
+      "end_time": 8.0,
+      "text": "First, we introduce Gaussian filtering and 2D convolution kernels."
+    },
+    {
+      "type": "transcript",
+      "id": "a23da4b6-963_t0002",
+      "timestamp": 8.0,
+      "end_time": 14.0,
+      "text": "Next, we use Phase Vector search to index visual and temporal embeddings."
+    },
+    {
+      "type": "transcript",
+      "id": "a23da4b6-963_t0003",
+      "timestamp": 14.0,
+      "end_time": 17.0,
+      "text": "Finally, the Multimodal Lecture."
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0000",
+      "frame_id": "a23da4b6-963_f0000",
+      "timestamp": 0.0,
+      "text": "VideoLens Multimodal Al Lecture",
+      "confidence": 0.7354
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0001",
+      "frame_id": "a23da4b6-963_f0000",
+      "timestamp": 0.0,
+      "text": "Speaker: Prof. Alan Vance",
+      "confidence": 0.8112
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0002",
+      "frame_id": "a23da4b6-963_f0000",
+      "timestamp": 0.0,
+      "text": "Red Object",
+      "confidence": 0.9991
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0003",
+      "frame_id": "a23da4b6-963_f0000",
+      "timestamp": 0.0,
+      "text": "Timestamp: 00.00",
+      "confidence": 0.9788
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0004",
+      "frame_id": "a23da4b6-963_f0002",
+      "timestamp": 4.8,
+      "text": "Gaussian Filtering & Image Kernels",
+      "confidence": 0.7157
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0005",
+      "frame_id": "a23da4b6-963_f0002",
+      "timestamp": 4.8,
+      "text": "Concept: 2D Convolution & Blur",
+      "confidence": 0.9957
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0006",
+      "frame_id": "a23da4b6-963_f0002",
+      "timestamp": 4.8,
+      "text": "Kernel",
+      "confidence": 0.9999
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0007",
+      "frame_id": "a23da4b6-963_f0002",
+      "timestamp": 4.8,
+      "text": "Timestamp: 00.04",
+      "confidence": 0.9989
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0008",
+      "frame_id": "a23da4b6-963_f0002",
+      "timestamp": 4.8,
+      "text": "Filter",
+      "confidence": 0.8384
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0009",
+      "frame_id": "a23da4b6-963_f0003",
+      "timestamp": 7.2,
+      "text": "Gaussian Filtering & Image Kernels",
+      "confidence": 0.6785
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0010",
+      "frame_id": "a23da4b6-963_f0003",
+      "timestamp": 7.2,
+      "text": "Concept: 2D Convolution & Blur",
+      "confidence": 0.9217
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0011",
+      "frame_id": "a23da4b6-963_f0003",
+      "timestamp": 7.2,
+      "text": "Kernel Filter",
+      "confidence": 0.9982
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0012",
+      "frame_id": "a23da4b6-963_f0003",
+      "timestamp": 7.2,
+      "text": "Timestamp: 00.07",
+      "confidence": 0.9987
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0013",
+      "frame_id": "a23da4b6-963_f0004",
+      "timestamp": 9.6,
+      "text": "Gaussian Filtering & Image Kernels",
+      "confidence": 0.7325
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0014",
+      "frame_id": "a23da4b6-963_f0004",
+      "timestamp": 9.6,
+      "text": "Concept: 2D Convolution & Blur",
+      "confidence": 0.9377
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0015",
+      "frame_id": "a23da4b6-963_f0004",
+      "timestamp": 9.6,
+      "text": "Kernel Filter",
+      "confidence": 0.7326
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0016",
+      "frame_id": "a23da4b6-963_f0004",
+      "timestamp": 9.6,
+      "text": "Timestamp: 00.09",
+      "confidence": 0.9967
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0017",
+      "frame_id": "a23da4b6-963_f0005",
+      "timestamp": 12.0,
+      "text": "FAISS Vector Search & Temporal Grounding",
+      "confidence": 0.9551
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0018",
+      "frame_id": "a23da4b6-963_f0005",
+      "timestamp": 12.0,
+      "text": "Multimodal RAG with Chronological Context",
+      "confidence": 0.8806
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0019",
+      "frame_id": "a23da4b6-963_f0005",
+      "timestamp": 12.0,
+      "text": "Vector Node",
+      "confidence": 0.7852
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0020",
+      "frame_id": "a23da4b6-963_f0005",
+      "timestamp": 12.0,
+      "text": "Timestamp: 00.12",
+      "confidence": 0.9776
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0021",
+      "frame_id": "a23da4b6-963_f0006",
+      "timestamp": 14.4,
+      "text": "FAISS Vector Search & Temporal Grounding",
+      "confidence": 0.9551
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0022",
+      "frame_id": "a23da4b6-963_f0006",
+      "timestamp": 14.4,
+      "text": "Multimodal RAG with Chronological Context",
+      "confidence": 0.8806
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0023",
+      "frame_id": "a23da4b6-963_f0006",
+      "timestamp": 14.4,
+      "text": "Vector Node",
+      "confidence": 0.5227
+    },
+    {
+      "type": "ocr",
+      "id": "a23da4b6-963_ocr_0024",
+      "frame_id": "a23da4b6-963_f0006",
+      "timestamp": 14.4,
+      "text": "Timestamp: 00.14",
+      "confidence": 0.7968
+    }
+  ]
+}

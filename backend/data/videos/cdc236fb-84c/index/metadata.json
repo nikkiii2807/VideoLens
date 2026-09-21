@@ -1,0 +1,428 @@
+{
+  "video_id": "cdc236fb-84c",
+  "visual_metadata": [
+    {
+      "frame_id": "cdc236fb-84c_f0000",
+      "frame_idx": 0,
+      "timestamp": 0.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\cdc236fb-84c\\frames\\frame_0000_0.00s.jpg",
+      "difference_score": 1.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "cdc236fb-84c_f0001",
+      "frame_idx": 1,
+      "timestamp": 2.4,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\cdc236fb-84c\\frames\\frame_0001_2.40s.jpg",
+      "difference_score": 0.0067,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "cdc236fb-84c_f0002",
+      "frame_idx": 2,
+      "timestamp": 4.8,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\cdc236fb-84c\\frames\\frame_0002_4.80s.jpg",
+      "difference_score": 0.0076,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "cdc236fb-84c_f0003",
+      "frame_idx": 3,
+      "timestamp": 7.2,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\cdc236fb-84c\\frames\\frame_0003_7.20s.jpg",
+      "difference_score": 0.0021,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "cdc236fb-84c_f0004",
+      "frame_idx": 4,
+      "timestamp": 9.6,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\cdc236fb-84c\\frames\\frame_0004_9.60s.jpg",
+      "difference_score": 0.0022,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "cdc236fb-84c_f0005",
+      "frame_idx": 5,
+      "timestamp": 12.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\cdc236fb-84c\\frames\\frame_0005_12.00s.jpg",
+      "difference_score": 0.0001,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "cdc236fb-84c_f0006",
+      "frame_idx": 6,
+      "timestamp": 14.4,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\cdc236fb-84c\\frames\\frame_0006_14.40s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "cdc236fb-84c_f0007",
+      "frame_idx": 7,
+      "timestamp": 16.8,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\cdc236fb-84c\\frames\\frame_0007_16.80s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    }
+  ],
+  "text_metadata": [
+    {
+      "type": "transcript",
+      "id": "cdc236fb-84c_t0000",
+      "timestamp": 0.0,
+      "end_time": 6.0,
+      "text": "In our robotics laboratory, the rover initializes its 3D led AR sensor array."
+    },
+    {
+      "type": "transcript",
+      "id": "cdc236fb-84c_t0001",
+      "timestamp": 6.0,
+      "end_time": 11.0,
+      "text": "The robot detects an obstacle at 2 meters distance and performs a rapid left turn."
+    },
+    {
+      "type": "transcript",
+      "id": "cdc236fb-84c_t0002",
+      "timestamp": 11.0,
+      "end_time": 17.0,
+      "text": "After avoiding the hazard, the rover reaches target waypoint Bravo successfully."
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0000",
+      "frame_id": "cdc236fb-84c_f0000",
+      "timestamp": 0.0,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9822
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0001",
+      "frame_id": "cdc236fb-84c_f0000",
+      "timestamp": 0.0,
+      "text": "Phase 1: 3D LiDAR Sensor Initialization",
+      "confidence": 0.682
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0002",
+      "frame_id": "cdc236fb-84c_f0000",
+      "timestamp": 0.0,
+      "text": "Telemetry: Sensor Range 360deg Active",
+      "confidence": 0.7046
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0003",
+      "frame_id": "cdc236fb-84c_f0000",
+      "timestamp": 0.0,
+      "text": "LiDAR Scanning",
+      "confidence": 0.93
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0004",
+      "frame_id": "cdc236fb-84c_f0000",
+      "timestamp": 0.0,
+      "text": "Timestamp: 00.0Os",
+      "confidence": 0.4157
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0005",
+      "frame_id": "cdc236fb-84c_f0001",
+      "timestamp": 2.4,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.984
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0006",
+      "frame_id": "cdc236fb-84c_f0001",
+      "timestamp": 2.4,
+      "text": "Phase 1: 3D LiDAR Sensor Initialization",
+      "confidence": 0.9115
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0007",
+      "frame_id": "cdc236fb-84c_f0001",
+      "timestamp": 2.4,
+      "text": "Telemetry: Sensor Range 360deg Active",
+      "confidence": 0.8426
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0008",
+      "frame_id": "cdc236fb-84c_f0001",
+      "timestamp": 2.4,
+      "text": "LiDAR Scanning",
+      "confidence": 0.9988
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0009",
+      "frame_id": "cdc236fb-84c_f0001",
+      "timestamp": 2.4,
+      "text": "Timestamp: 00.02s",
+      "confidence": 0.6855
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0010",
+      "frame_id": "cdc236fb-84c_f0002",
+      "timestamp": 4.8,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.984
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0011",
+      "frame_id": "cdc236fb-84c_f0002",
+      "timestamp": 4.8,
+      "text": "Phase 1: 3D LiDAR Sensor Initialization",
+      "confidence": 0.9115
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0012",
+      "frame_id": "cdc236fb-84c_f0002",
+      "timestamp": 4.8,
+      "text": "Telemetry: Sensor Range 360deg Active",
+      "confidence": 0.7049
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0013",
+      "frame_id": "cdc236fb-84c_f0002",
+      "timestamp": 4.8,
+      "text": "LiDAR Scanning",
+      "confidence": 0.5812
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0014",
+      "frame_id": "cdc236fb-84c_f0002",
+      "timestamp": 4.8,
+      "text": "Timestamp: 00.04s",
+      "confidence": 0.9645
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0015",
+      "frame_id": "cdc236fb-84c_f0003",
+      "timestamp": 7.2,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9848
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0016",
+      "frame_id": "cdc236fb-84c_f0003",
+      "timestamp": 7.2,
+      "text": "Phase 2: Obstacle Alert at 2.0m Distance",
+      "confidence": 0.8687
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0017",
+      "frame_id": "cdc236fb-84c_f0003",
+      "timestamp": 7.2,
+      "text": "Navigation: Performing Rapid Left Turn Maneuver",
+      "confidence": 0.6654
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0018",
+      "frame_id": "cdc236fb-84c_f0003",
+      "timestamp": 7.2,
+      "text": "HAZARD 2. 0m",
+      "confidence": 0.3845
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0019",
+      "frame_id": "cdc236fb-84c_f0003",
+      "timestamp": 7.2,
+      "text": "Left Turn",
+      "confidence": 0.9013
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0020",
+      "frame_id": "cdc236fb-84c_f0003",
+      "timestamp": 7.2,
+      "text": "Timestamp: 00.07s",
+      "confidence": 0.8444
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0021",
+      "frame_id": "cdc236fb-84c_f0004",
+      "timestamp": 9.6,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9848
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0022",
+      "frame_id": "cdc236fb-84c_f0004",
+      "timestamp": 9.6,
+      "text": "Phase 2: Obstacle Alert at 2.0m Distance",
+      "confidence": 0.8687
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0023",
+      "frame_id": "cdc236fb-84c_f0004",
+      "timestamp": 9.6,
+      "text": "Navigation: Performing Rapid Left Turn Maneuver",
+      "confidence": 0.6654
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0024",
+      "frame_id": "cdc236fb-84c_f0004",
+      "timestamp": 9.6,
+      "text": "HAZARD 2.Om",
+      "confidence": 0.8184
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0025",
+      "frame_id": "cdc236fb-84c_f0004",
+      "timestamp": 9.6,
+      "text": "Left Turn",
+      "confidence": 0.9058
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0026",
+      "frame_id": "cdc236fb-84c_f0004",
+      "timestamp": 9.6,
+      "text": "Timestamp: 00.09s",
+      "confidence": 0.9899
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0027",
+      "frame_id": "cdc236fb-84c_f0005",
+      "timestamp": 12.0,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9827
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0028",
+      "frame_id": "cdc236fb-84c_f0005",
+      "timestamp": 12.0,
+      "text": "Phase 3: Waypoint Bravo Reached Successfully",
+      "confidence": 0.8817
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0029",
+      "frame_id": "cdc236fb-84c_f0005",
+      "timestamp": 12.0,
+      "text": "Mission Coordinates: Target (45.2, 12.8) Secured",
+      "confidence": 0.8659
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0030",
+      "frame_id": "cdc236fb-84c_f0005",
+      "timestamp": 12.0,
+      "text": "WAYPOINT BRAVO",
+      "confidence": 0.9998
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0031",
+      "frame_id": "cdc236fb-84c_f0005",
+      "timestamp": 12.0,
+      "text": "Timestamp: 00.12s",
+      "confidence": 0.9541
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0032",
+      "frame_id": "cdc236fb-84c_f0006",
+      "timestamp": 14.4,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9827
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0033",
+      "frame_id": "cdc236fb-84c_f0006",
+      "timestamp": 14.4,
+      "text": "Phase 3: Waypoint Bravo Reached Successfully",
+      "confidence": 0.8817
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0034",
+      "frame_id": "cdc236fb-84c_f0006",
+      "timestamp": 14.4,
+      "text": "Mission Coordinates: Target (45.2, 12.8) Secured",
+      "confidence": 0.8659
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0035",
+      "frame_id": "cdc236fb-84c_f0006",
+      "timestamp": 14.4,
+      "text": "WAYPOINT BRAVO",
+      "confidence": 0.9998
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0036",
+      "frame_id": "cdc236fb-84c_f0006",
+      "timestamp": 14.4,
+      "text": "Timestamp: 00.14s",
+      "confidence": 0.7879
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0037",
+      "frame_id": "cdc236fb-84c_f0007",
+      "timestamp": 16.8,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9827
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0038",
+      "frame_id": "cdc236fb-84c_f0007",
+      "timestamp": 16.8,
+      "text": "Phase 3: Waypoint Bravo Reached Successfully",
+      "confidence": 0.8817
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0039",
+      "frame_id": "cdc236fb-84c_f0007",
+      "timestamp": 16.8,
+      "text": "Mission Coordinates: Target (45.2, 12.8) Secured",
+      "confidence": 0.8659
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0040",
+      "frame_id": "cdc236fb-84c_f0007",
+      "timestamp": 16.8,
+      "text": "WAYPOINT BRAVO",
+      "confidence": 0.9998
+    },
+    {
+      "type": "ocr",
+      "id": "cdc236fb-84c_ocr_0041",
+      "frame_id": "cdc236fb-84c_f0007",
+      "timestamp": 16.8,
+      "text": "Timestamp: 00.16s",
+      "confidence": 0.7556
+    }
+  ]
+}

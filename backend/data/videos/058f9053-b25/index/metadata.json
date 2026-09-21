@@ -1,0 +1,483 @@
+{
+  "video_id": "058f9053-b25",
+  "visual_metadata": [
+    {
+      "frame_id": "058f9053-b25_f0000",
+      "frame_idx": 0,
+      "timestamp": 0.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\058f9053-b25\\frames\\frame_0000_0.00s.jpg",
+      "difference_score": 1.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "058f9053-b25_f0001",
+      "frame_idx": 1,
+      "timestamp": 2.4,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\058f9053-b25\\frames\\frame_0001_2.40s.jpg",
+      "difference_score": 0.0019,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "058f9053-b25_f0002",
+      "frame_idx": 2,
+      "timestamp": 4.8,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\058f9053-b25\\frames\\frame_0002_4.80s.jpg",
+      "difference_score": 0.0016,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "058f9053-b25_f0003",
+      "frame_idx": 3,
+      "timestamp": 7.2,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\058f9053-b25\\frames\\frame_0003_7.20s.jpg",
+      "difference_score": 0.0036,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "058f9053-b25_f0004",
+      "frame_idx": 4,
+      "timestamp": 9.6,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\058f9053-b25\\frames\\frame_0004_9.60s.jpg",
+      "difference_score": 0.0036,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "058f9053-b25_f0005",
+      "frame_idx": 5,
+      "timestamp": 12.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\058f9053-b25\\frames\\frame_0005_12.00s.jpg",
+      "difference_score": 0.0008,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "058f9053-b25_f0006",
+      "frame_idx": 6,
+      "timestamp": 14.4,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\058f9053-b25\\frames\\frame_0006_14.40s.jpg",
+      "difference_score": 0.0007,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "058f9053-b25_f0007",
+      "frame_idx": 7,
+      "timestamp": 16.8,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\058f9053-b25\\frames\\frame_0007_16.80s.jpg",
+      "difference_score": 0.0007,
+      "is_keyframe": true
+    }
+  ],
+  "text_metadata": [
+    {
+      "type": "transcript",
+      "id": "058f9053-b25_t0000",
+      "timestamp": 0.0,
+      "end_time": 2.0,
+      "text": "Welcome to Quick Kitchen."
+    },
+    {
+      "type": "transcript",
+      "id": "058f9053-b25_t0001",
+      "timestamp": 2.0,
+      "end_time": 6.0,
+      "text": "First, bring a pot of salted water to a rolling boil."
+    },
+    {
+      "type": "transcript",
+      "id": "058f9053-b25_t0002",
+      "timestamp": 6.0,
+      "end_time": 12.0,
+      "text": "Next, add the fresh organic basil leaves and stir in the ripe red tomatoes."
+    },
+    {
+      "type": "transcript",
+      "id": "058f9053-b25_t0003",
+      "timestamp": 12.0,
+      "end_time": 17.0,
+      "text": "Finally, drizzle golden olive oil on top and serve hot on a ceramic plate."
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0000",
+      "frame_id": "058f9053-b25_f0000",
+      "timestamp": 0.0,
+      "text": "Quick Kitchen: Italian Pasta Guide",
+      "confidence": 0.6509
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0001",
+      "frame_id": "058f9053-b25_f0000",
+      "timestamp": 0.0,
+      "text": "Water to Rolling Boil",
+      "confidence": 0.76
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0002",
+      "frame_id": "058f9053-b25_f0000",
+      "timestamp": 0.0,
+      "text": "Temperature: 100C Boiling Point",
+      "confidence": 0.9667
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0003",
+      "frame_id": "058f9053-b25_f0000",
+      "timestamp": 0.0,
+      "text": "Timestamp: O0.0Os",
+      "confidence": 0.4403
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0004",
+      "frame_id": "058f9053-b25_f0000",
+      "timestamp": 0.0,
+      "text": "Step",
+      "confidence": 0.9994
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0005",
+      "frame_id": "058f9053-b25_f0000",
+      "timestamp": 0.0,
+      "text": "Bring",
+      "confidence": 1.0
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0006",
+      "frame_id": "058f9053-b25_f0001",
+      "timestamp": 2.4,
+      "text": "Quick Kitchen: Italian Pasta Guide",
+      "confidence": 0.6256
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0007",
+      "frame_id": "058f9053-b25_f0001",
+      "timestamp": 2.4,
+      "text": "1: Bring Water to Rolling Boil",
+      "confidence": 0.7911
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0008",
+      "frame_id": "058f9053-b25_f0001",
+      "timestamp": 2.4,
+      "text": "Temperature: 100C Boiling Point",
+      "confidence": 0.9472
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0009",
+      "frame_id": "058f9053-b25_f0001",
+      "timestamp": 2.4,
+      "text": "Timestamp: 00.02s",
+      "confidence": 0.9083
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0010",
+      "frame_id": "058f9053-b25_f0001",
+      "timestamp": 2.4,
+      "text": "Step",
+      "confidence": 0.9996
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0011",
+      "frame_id": "058f9053-b25_f0002",
+      "timestamp": 4.8,
+      "text": "Quick Kitchen: Italian Pasta Guide",
+      "confidence": 0.6256
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0012",
+      "frame_id": "058f9053-b25_f0002",
+      "timestamp": 4.8,
+      "text": "1: Bring Water to Rolling Boil",
+      "confidence": 0.7911
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0013",
+      "frame_id": "058f9053-b25_f0002",
+      "timestamp": 4.8,
+      "text": "Temperature: 100C Boiling Point",
+      "confidence": 0.9332
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0014",
+      "frame_id": "058f9053-b25_f0002",
+      "timestamp": 4.8,
+      "text": "Timestamp: 00.04s",
+      "confidence": 0.7323
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0015",
+      "frame_id": "058f9053-b25_f0002",
+      "timestamp": 4.8,
+      "text": "Step",
+      "confidence": 0.9996
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0016",
+      "frame_id": "058f9053-b25_f0003",
+      "timestamp": 7.2,
+      "text": "Quick Kitchen: Italian Pasta Guide",
+      "confidence": 0.7917
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0017",
+      "frame_id": "058f9053-b25_f0003",
+      "timestamp": 7.2,
+      "text": "2: Fresh Organic Basil & Tomatoes",
+      "confidence": 0.9063
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0018",
+      "frame_id": "058f9053-b25_f0003",
+      "timestamp": 7.2,
+      "text": "Ingredients: Sweet Basil; San Marzano Tomatoes",
+      "confidence": 0.9864
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0019",
+      "frame_id": "058f9053-b25_f0003",
+      "timestamp": 7.2,
+      "text": "Ripe Tomatoes",
+      "confidence": 0.9981
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0020",
+      "frame_id": "058f9053-b25_f0003",
+      "timestamp": 7.2,
+      "text": "Fresh Basil",
+      "confidence": 0.9489
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0021",
+      "frame_id": "058f9053-b25_f0003",
+      "timestamp": 7.2,
+      "text": "Timestamp: 00.07s",
+      "confidence": 0.9892
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0022",
+      "frame_id": "058f9053-b25_f0003",
+      "timestamp": 7.2,
+      "text": "Step",
+      "confidence": 0.9529
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0023",
+      "frame_id": "058f9053-b25_f0004",
+      "timestamp": 9.6,
+      "text": "Quick Kitchen: Italian Pasta Guide",
+      "confidence": 0.7917
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0024",
+      "frame_id": "058f9053-b25_f0004",
+      "timestamp": 9.6,
+      "text": "2: Fresh Organic Basil & Tomatoes",
+      "confidence": 0.9063
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0025",
+      "frame_id": "058f9053-b25_f0004",
+      "timestamp": 9.6,
+      "text": "Ingredients: Sweet Basil; San Marzano Tomatoes",
+      "confidence": 0.9864
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0026",
+      "frame_id": "058f9053-b25_f0004",
+      "timestamp": 9.6,
+      "text": "Ripe Tomatoes",
+      "confidence": 0.7926
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0027",
+      "frame_id": "058f9053-b25_f0004",
+      "timestamp": 9.6,
+      "text": "Fresh Basil",
+      "confidence": 0.9999
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0028",
+      "frame_id": "058f9053-b25_f0004",
+      "timestamp": 9.6,
+      "text": "Timestamp: 00.09s",
+      "confidence": 0.9908
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0029",
+      "frame_id": "058f9053-b25_f0004",
+      "timestamp": 9.6,
+      "text": "Step",
+      "confidence": 0.9529
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0030",
+      "frame_id": "058f9053-b25_f0005",
+      "timestamp": 12.0,
+      "text": "Quick Kitchen: Italian Pasta Guide",
+      "confidence": 0.473
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0031",
+      "frame_id": "058f9053-b25_f0005",
+      "timestamp": 12.0,
+      "text": "3: Cold-Pressed Olive Oil Drizzle",
+      "confidence": 0.8444
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0032",
+      "frame_id": "058f9053-b25_f0005",
+      "timestamp": 12.0,
+      "text": "Garnish & Finish: Serve immediately hot",
+      "confidence": 0.6931
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0033",
+      "frame_id": "058f9053-b25_f0005",
+      "timestamp": 12.0,
+      "text": "Golden Olive Oil",
+      "confidence": 0.8142
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0034",
+      "frame_id": "058f9053-b25_f0005",
+      "timestamp": 12.0,
+      "text": "Timestamp: 00.12s",
+      "confidence": 0.9825
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0035",
+      "frame_id": "058f9053-b25_f0005",
+      "timestamp": 12.0,
+      "text": "Step",
+      "confidence": 0.9998
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0036",
+      "frame_id": "058f9053-b25_f0006",
+      "timestamp": 14.4,
+      "text": "Quick Kitchen: Italian Pasta Guide",
+      "confidence": 0.473
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0037",
+      "frame_id": "058f9053-b25_f0006",
+      "timestamp": 14.4,
+      "text": "3: Cold-Pressed Olive Oil Drizzle",
+      "confidence": 0.8444
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0038",
+      "frame_id": "058f9053-b25_f0006",
+      "timestamp": 14.4,
+      "text": "Garnish & Finish: Serve immediately hot",
+      "confidence": 0.6814
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0039",
+      "frame_id": "058f9053-b25_f0006",
+      "timestamp": 14.4,
+      "text": "Golden Olive Oil",
+      "confidence": 0.9955
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0040",
+      "frame_id": "058f9053-b25_f0006",
+      "timestamp": 14.4,
+      "text": "Timestamp: 00.14s",
+      "confidence": 0.8868
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0041",
+      "frame_id": "058f9053-b25_f0006",
+      "timestamp": 14.4,
+      "text": "Step",
+      "confidence": 0.9998
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0042",
+      "frame_id": "058f9053-b25_f0007",
+      "timestamp": 16.8,
+      "text": "Quick Kitchen: Italian Pasta Guide",
+      "confidence": 0.473
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0043",
+      "frame_id": "058f9053-b25_f0007",
+      "timestamp": 16.8,
+      "text": "3: Cold-Pressed Olive Oil Drizzle",
+      "confidence": 0.8444
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0044",
+      "frame_id": "058f9053-b25_f0007",
+      "timestamp": 16.8,
+      "text": "Garnish & Finish: Serve immediately hot",
+      "confidence": 0.6814
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0045",
+      "frame_id": "058f9053-b25_f0007",
+      "timestamp": 16.8,
+      "text": "Golden Olive Oil",
+      "confidence": 0.7441
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0046",
+      "frame_id": "058f9053-b25_f0007",
+      "timestamp": 16.8,
+      "text": "Timestamp: 00.16s",
+      "confidence": 0.6042
+    },
+    {
+      "type": "ocr",
+      "id": "058f9053-b25_ocr_0047",
+      "frame_id": "058f9053-b25_f0007",
+      "timestamp": 16.8,
+      "text": "Step",
+      "confidence": 0.9998
+    }
+  ]
+}

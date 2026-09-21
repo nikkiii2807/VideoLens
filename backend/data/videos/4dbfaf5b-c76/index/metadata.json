@@ -1,0 +1,364 @@
+{
+  "video_id": "4dbfaf5b-c76",
+  "visual_metadata": [
+    {
+      "frame_id": "4dbfaf5b-c76_f0000",
+      "frame_idx": 0,
+      "timestamp": 0.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0000_0.00s.jpg",
+      "difference_score": 1.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0001",
+      "frame_idx": 1,
+      "timestamp": 2.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0001_2.00s.jpg",
+      "difference_score": 0.0169,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0002",
+      "frame_idx": 2,
+      "timestamp": 3.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0002_3.00s.jpg",
+      "difference_score": 0.1118,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0003",
+      "frame_idx": 3,
+      "timestamp": 4.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0003_4.50s.jpg",
+      "difference_score": 0.1086,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0004",
+      "frame_idx": 4,
+      "timestamp": 5.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0004_5.00s.jpg",
+      "difference_score": 0.1134,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0005",
+      "frame_idx": 5,
+      "timestamp": 5.51,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0005_5.51s.jpg",
+      "difference_score": 0.1275,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0006",
+      "frame_idx": 6,
+      "timestamp": 6.01,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0006_6.01s.jpg",
+      "difference_score": 0.134,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0007",
+      "frame_idx": 7,
+      "timestamp": 6.51,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0007_6.51s.jpg",
+      "difference_score": 0.1094,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0008",
+      "frame_idx": 8,
+      "timestamp": 8.51,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0008_8.51s.jpg",
+      "difference_score": 0.1695,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0009",
+      "frame_idx": 9,
+      "timestamp": 10.51,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0009_10.51s.jpg",
+      "difference_score": 0.0026,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0010",
+      "frame_idx": 10,
+      "timestamp": 11.01,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0010_11.01s.jpg",
+      "difference_score": 0.1479,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0011",
+      "frame_idx": 11,
+      "timestamp": 11.51,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0011_11.51s.jpg",
+      "difference_score": 0.1038,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0012",
+      "frame_idx": 12,
+      "timestamp": 13.01,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0012_13.01s.jpg",
+      "difference_score": 0.1124,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0013",
+      "frame_idx": 13,
+      "timestamp": 15.02,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0013_15.02s.jpg",
+      "difference_score": 0.0655,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0014",
+      "frame_idx": 14,
+      "timestamp": 17.02,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0014_17.02s.jpg",
+      "difference_score": 0.1453,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0015",
+      "frame_idx": 15,
+      "timestamp": 19.02,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0015_19.02s.jpg",
+      "difference_score": 0.0028,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0016",
+      "frame_idx": 16,
+      "timestamp": 20.02,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0016_20.02s.jpg",
+      "difference_score": 0.0822,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0017",
+      "frame_idx": 17,
+      "timestamp": 20.52,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0017_20.52s.jpg",
+      "difference_score": 0.1252,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0018",
+      "frame_idx": 18,
+      "timestamp": 21.02,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0018_21.02s.jpg",
+      "difference_score": 0.1253,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0019",
+      "frame_idx": 19,
+      "timestamp": 21.52,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0019_21.52s.jpg",
+      "difference_score": 0.1258,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0020",
+      "frame_idx": 20,
+      "timestamp": 22.02,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0020_22.02s.jpg",
+      "difference_score": 0.0804,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0021",
+      "frame_idx": 21,
+      "timestamp": 22.52,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0021_22.52s.jpg",
+      "difference_score": 0.1154,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0022",
+      "frame_idx": 22,
+      "timestamp": 24.52,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0022_24.52s.jpg",
+      "difference_score": 0.0009,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0023",
+      "frame_idx": 23,
+      "timestamp": 26.03,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0023_26.03s.jpg",
+      "difference_score": 0.1679,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0024",
+      "frame_idx": 24,
+      "timestamp": 26.53,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0024_26.53s.jpg",
+      "difference_score": 0.1678,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0025",
+      "frame_idx": 25,
+      "timestamp": 28.53,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0025_28.53s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0026",
+      "frame_idx": 26,
+      "timestamp": 29.03,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0026_29.03s.jpg",
+      "difference_score": 0.1642,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "4dbfaf5b-c76_f0027",
+      "frame_idx": 27,
+      "timestamp": 29.53,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\4dbfaf5b-c76\\frames\\frame_0027_29.53s.jpg",
+      "difference_score": 0.7765,
+      "is_keyframe": true
+    }
+  ],
+  "text_metadata": [
+    {
+      "type": "transcript",
+      "id": "4dbfaf5b-c76_t0000",
+      "timestamp": 0.0,
+      "end_time": 16.44,
+      "text": "So you're running a little late today and you haven't had your fresh cup of coffee yet."
+    },
+    {
+      "type": "transcript",
+      "id": "4dbfaf5b-c76_t0001",
+      "timestamp": 16.44,
+      "end_time": 22.52,
+      "text": "No matter the weather or traffic, we deliver fresh coffee and bagels."
+    },
+    {
+      "type": "transcript",
+      "id": "4dbfaf5b-c76_t0002",
+      "timestamp": 22.52,
+      "end_time": 27.28,
+      "text": "The Java Cafe."
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0000",
+      "frame_id": "4dbfaf5b-c76_f0004",
+      "timestamp": 5.0,
+      "text": "TAXI",
+      "confidence": 0.905
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0001",
+      "frame_id": "4dbfaf5b-c76_f0005",
+      "timestamp": 5.51,
+      "text": "TAXI",
+      "confidence": 0.576
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0002",
+      "frame_id": "4dbfaf5b-c76_f0007",
+      "timestamp": 6.51,
+      "text": "TAXI",
+      "confidence": 0.9196
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0003",
+      "frame_id": "4dbfaf5b-c76_f0013",
+      "timestamp": 15.02,
+      "text": "Shop",
+      "confidence": 0.8814
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0004",
+      "frame_id": "4dbfaf5b-c76_f0014",
+      "timestamp": 17.02,
+      "text": "AXI",
+      "confidence": 0.6149
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0005",
+      "frame_id": "4dbfaf5b-c76_f0015",
+      "timestamp": 19.02,
+      "text": "TAXI",
+      "confidence": 0.9994
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0006",
+      "frame_id": "4dbfaf5b-c76_f0016",
+      "timestamp": 20.02,
+      "text": "TAXI",
+      "confidence": 0.9887
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0007",
+      "frame_id": "4dbfaf5b-c76_f0017",
+      "timestamp": 20.52,
+      "text": "TAXI",
+      "confidence": 0.999
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0008",
+      "frame_id": "4dbfaf5b-c76_f0018",
+      "timestamp": 21.02,
+      "text": "TAXII",
+      "confidence": 0.9347
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0009",
+      "frame_id": "4dbfaf5b-c76_f0019",
+      "timestamp": 21.52,
+      "text": "AXI",
+      "confidence": 0.7594
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0010",
+      "frame_id": "4dbfaf5b-c76_f0020",
+      "timestamp": 22.02,
+      "text": "TAXI",
+      "confidence": 0.7808
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0011",
+      "frame_id": "4dbfaf5b-c76_f0024",
+      "timestamp": 26.53,
+      "text": "Java",
+      "confidence": 0.5914
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0012",
+      "frame_id": "4dbfaf5b-c76_f0024",
+      "timestamp": 26.53,
+      "text": "The",
+      "confidence": 0.9999
+    },
+    {
+      "type": "ocr",
+      "id": "4dbfaf5b-c76_ocr_0013",
+      "frame_id": "4dbfaf5b-c76_f0024",
+      "timestamp": 26.53,
+      "text": "Cafe",
+      "confidence": 0.9973
+    }
+  ]
+}

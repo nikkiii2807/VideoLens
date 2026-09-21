@@ -1,0 +1,102 @@
+[
+  {
+    "benchmark_id": "b_001",
+    "category": "visual",
+    "question": "What color are the ripe tomatoes in the kitchen guide section?",
+    "ground_truth_answer": "The ripe tomatoes are red circular objects.",
+    "relevant_start": 5.0,
+    "relevant_end": 10.0,
+    "primary_modality": "visual",
+    "expected_answer_keywords": ["red", "tomato"]
+  },
+  {
+    "benchmark_id": "b_002",
+    "category": "visual",
+    "question": "What object is displayed on the screen during the first step of the kitchen section?",
+    "ground_truth_answer": "A boiling pot of water with steam bubbles.",
+    "relevant_start": 0.0,
+    "relevant_end": 5.0,
+    "primary_modality": "visual",
+    "expected_answer_keywords": ["pot", "boil"]
+  },
+  {
+    "benchmark_id": "b_003",
+    "category": "visual",
+    "question": "What shape or object appears during the Gaussian filtering section?",
+    "ground_truth_answer": "A yellow square kernel filter moves across the screen.",
+    "relevant_start": 30.0,
+    "relevant_end": 45.0,
+    "primary_modality": "visual",
+    "expected_answer_keywords": ["yellow", "square", "kernel"]
+  },
+  {
+    "benchmark_id": "b_004",
+    "category": "action",
+    "question": "What does the rover do when it detects an obstacle at 2.0 meters distance?",
+    "ground_truth_answer": "The rover performs a rapid left turn maneuver to avoid the obstacle.",
+    "relevant_start": 20.0,
+    "relevant_end": 26.0,
+    "primary_modality": "action",
+    "expected_answer_keywords": ["left turn", "turn", "maneuver", "avoid"]
+  },
+  {
+    "benchmark_id": "b_005",
+    "category": "action",
+    "question": "What happens in the kitchen recipe immediately after boiling the water?",
+    "ground_truth_answer": "Fresh organic basil and ripe red tomatoes are added.",
+    "relevant_start": 5.0,
+    "relevant_end": 11.0,
+    "primary_modality": "action",
+    "expected_answer_keywords": ["basil", "tomato"]
+  },
+  {
+    "benchmark_id": "b_006",
+    "category": "action",
+    "question": "What action is performed with the golden olive oil in the recipe finish?",
+    "ground_truth_answer": "Cold-pressed golden olive oil is drizzled on a ceramic plate.",
+    "relevant_start": 10.0,
+    "relevant_end": 15.0,
+    "primary_modality": "action",
+    "expected_answer_keywords": ["drizzle", "plate", "olive oil"]
+  },
+  {
+    "benchmark_id": "b_007",
+    "category": "temporal",
+    "question": "When does the autonomous robotics mission log begin in the video timeline?",
+    "ground_truth_answer": "The autonomous robotics mission begins at 15 seconds.",
+    "relevant_start": 15.0,
+    "relevant_end": 20.0,
+    "primary_modality": "temporal",
+    "expected_answer_keywords": ["15", "00:15"]
+  },
+  {
+    "benchmark_id": "b_008",
+    "category": "temporal",
+    "question": "At what timestamp does the rover successfully reach Waypoint Bravo?",
+    "ground_truth_answer": "The rover reaches Waypoint Bravo between 26 and 30 seconds.",
+    "relevant_start": 26.0,
+    "relevant_end": 30.0,
+    "primary_modality": "temporal",
+    "expected_answer_keywords": ["26", "27", "28", "29", "30", "00:26"]
+  },
+  {
+    "benchmark_id": "b_009",
+    "category": "transcript",
+    "question": "What does the speaker say about FAISS vector search?",
+    "ground_truth_answer": "We use FAISS vector search to index visual and temporal embeddings and ground questions in the video timeline.",
+    "relevant_start": 45.0,
+    "relevant_end": 60.0,
+    "primary_modality": "transcript",
+    "expected_answer_keywords": ["FAISS", "index", "embeddings"]
+  },
+  {
+    "benchmark_id": "b_010",
+    "category": "unanswerable",
+    "question": "What is the name of the dog playing in the park?",
+    "ground_truth_answer": "I don't have enough evidence from the video to determine that.",
+    "relevant_start": 0.0,
+    "relevant_end": 60.0,
+    "primary_modality": "unanswerable",
+    "expected_answer_keywords": ["don't have enough evidence", "not enough evidence", "reliable evidence", "cannot determine"]
+  }
+]

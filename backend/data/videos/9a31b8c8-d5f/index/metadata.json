@@ -1,0 +1,1174 @@
+{
+  "video_id": "9a31b8c8-d5f",
+  "visual_metadata": [
+    {
+      "frame_id": "9a31b8c8-d5f_f0000",
+      "frame_idx": 0,
+      "timestamp": 0.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0000_0.00s.jpg",
+      "difference_score": 1.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0001",
+      "frame_idx": 1,
+      "timestamp": 2.4,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0001_2.40s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0002",
+      "frame_idx": 2,
+      "timestamp": 4.8,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0002_4.80s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0003",
+      "frame_idx": 3,
+      "timestamp": 7.2,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0003_7.20s.jpg",
+      "difference_score": 0.0001,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0004",
+      "frame_idx": 4,
+      "timestamp": 9.6,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0004_9.60s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0005",
+      "frame_idx": 5,
+      "timestamp": 12.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0005_12.00s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0006",
+      "frame_idx": 6,
+      "timestamp": 14.4,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0006_14.40s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0007",
+      "frame_idx": 7,
+      "timestamp": 15.36,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0007_15.36s.jpg",
+      "difference_score": 0.0973,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0008",
+      "frame_idx": 8,
+      "timestamp": 17.76,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0008_17.76s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0009",
+      "frame_idx": 9,
+      "timestamp": 20.16,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0009_20.16s.jpg",
+      "difference_score": 0.0448,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0010",
+      "frame_idx": 10,
+      "timestamp": 22.56,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0010_22.56s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0011",
+      "frame_idx": 11,
+      "timestamp": 24.96,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0011_24.96s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0012",
+      "frame_idx": 12,
+      "timestamp": 27.36,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0012_27.36s.jpg",
+      "difference_score": 0.0001,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0013",
+      "frame_idx": 13,
+      "timestamp": 29.76,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0013_29.76s.jpg",
+      "difference_score": 0.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0014",
+      "frame_idx": 14,
+      "timestamp": 32.16,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0014_32.16s.jpg",
+      "difference_score": 0.0049,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0015",
+      "frame_idx": 15,
+      "timestamp": 34.56,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0015_34.56s.jpg",
+      "difference_score": 0.0053,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0016",
+      "frame_idx": 16,
+      "timestamp": 36.96,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0016_36.96s.jpg",
+      "difference_score": 0.0053,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0017",
+      "frame_idx": 17,
+      "timestamp": 39.36,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0017_39.36s.jpg",
+      "difference_score": 0.0049,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0018",
+      "frame_idx": 18,
+      "timestamp": 41.76,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0018_41.76s.jpg",
+      "difference_score": 0.0054,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0019",
+      "frame_idx": 19,
+      "timestamp": 44.16,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0019_44.16s.jpg",
+      "difference_score": 0.005,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0020",
+      "frame_idx": 20,
+      "timestamp": 46.56,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0020_46.56s.jpg",
+      "difference_score": 0.0038,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "9a31b8c8-d5f_f0021",
+      "frame_idx": 21,
+      "timestamp": 48.96,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\9a31b8c8-d5f\\frames\\frame_0021_48.96s.jpg",
+      "difference_score": 0.0038,
+      "is_keyframe": true
+    }
+  ],
+  "text_metadata": [
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0000",
+      "timestamp": 0.0,
+      "end_time": 4.08,
+      "text": "Welcome to the Videolins 1 Minute Multimodal Demonstration."
+    },
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0001",
+      "timestamp": 4.08,
+      "end_time": 11.36,
+      "text": "In Section 1, bring water to a rolling boil, then add fresh organic basil and ripe red tomatoes."
+    },
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0002",
+      "timestamp": 11.36,
+      "end_time": 15.36,
+      "text": "Drizzle cold pressed golden olive oil to finish the dish."
+    },
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0003",
+      "timestamp": 15.36,
+      "end_time": 19.72,
+      "text": "In Section 2, our autonomous robotics lab begins."
+    },
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0004",
+      "timestamp": 19.72,
+      "end_time": 24.04,
+      "text": "The rover initializes its 3D lead AR sensor array."
+    },
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0005",
+      "timestamp": 24.04,
+      "end_time": 29.44,
+      "text": "The robot detects an obstacle at 2 meters and performs a rapid left turn maneuver."
+    },
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0006",
+      "timestamp": 29.68,
+      "end_time": 33.2,
+      "text": "The rover reaches waypoint Bravo successfully."
+    },
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0007",
+      "timestamp": 33.2,
+      "end_time": 39.76,
+      "text": "In Section 3, we study Gaussian filtering and 2D convolution kernels for image blur."
+    },
+    {
+      "type": "transcript",
+      "id": "9a31b8c8-d5f_t0008",
+      "timestamp": 39.76,
+      "end_time": 48.4,
+      "text": "Finally in Section 4, we use FAS Vector search to index visual and temporal embeddings and ground questions in the video timeline."
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0000",
+      "frame_id": "9a31b8c8-d5f_f0000",
+      "timestamp": 0.0,
+      "text": "Quick Kitchen Guide: Step 1",
+      "confidence": 0.9849
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0001",
+      "frame_id": "9a31b8c8-d5f_f0000",
+      "timestamp": 0.0,
+      "text": "Water to Rolling Boil",
+      "confidence": 0.9391
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0002",
+      "frame_id": "9a31b8c8-d5f_f0000",
+      "timestamp": 0.0,
+      "text": "Temperature: 100C Boiling Pot",
+      "confidence": 0.8543
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0003",
+      "frame_id": "9a31b8c8-d5f_f0000",
+      "timestamp": 0.0,
+      "text": "Pot",
+      "confidence": 0.9999
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0004",
+      "frame_id": "9a31b8c8-d5f_f0000",
+      "timestamp": 0.0,
+      "text": "Timestamp: 00:0Os",
+      "confidence": 0.3785
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0005",
+      "frame_id": "9a31b8c8-d5f_f0000",
+      "timestamp": 0.0,
+      "text": "Bring",
+      "confidence": 1.0
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0006",
+      "frame_id": "9a31b8c8-d5f_f0001",
+      "timestamp": 2.4,
+      "text": "Quick Kitchen Guide: Step 1",
+      "confidence": 0.728
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0007",
+      "frame_id": "9a31b8c8-d5f_f0001",
+      "timestamp": 2.4,
+      "text": "Bring Water to Rolling Boil",
+      "confidence": 0.7471
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0008",
+      "frame_id": "9a31b8c8-d5f_f0001",
+      "timestamp": 2.4,
+      "text": "Temperature: 100C Boiling Pot",
+      "confidence": 0.7876
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0009",
+      "frame_id": "9a31b8c8-d5f_f0001",
+      "timestamp": 2.4,
+      "text": "Boiling Pot",
+      "confidence": 0.9916
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0010",
+      "frame_id": "9a31b8c8-d5f_f0001",
+      "timestamp": 2.4,
+      "text": "Timestamp: 00.02s",
+      "confidence": 0.577
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0011",
+      "frame_id": "9a31b8c8-d5f_f0002",
+      "timestamp": 4.8,
+      "text": "Quick Kitchen Guide: Step 1",
+      "confidence": 0.728
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0012",
+      "frame_id": "9a31b8c8-d5f_f0002",
+      "timestamp": 4.8,
+      "text": "Bring Water to Rolling Boil",
+      "confidence": 0.7471
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0013",
+      "frame_id": "9a31b8c8-d5f_f0002",
+      "timestamp": 4.8,
+      "text": "Temperature: 100C Boiling Pot",
+      "confidence": 0.7876
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0014",
+      "frame_id": "9a31b8c8-d5f_f0002",
+      "timestamp": 4.8,
+      "text": "Boiling Pot",
+      "confidence": 0.9916
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0015",
+      "frame_id": "9a31b8c8-d5f_f0002",
+      "timestamp": 4.8,
+      "text": "Timestamp: 00.04s",
+      "confidence": 0.5326
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0016",
+      "frame_id": "9a31b8c8-d5f_f0003",
+      "timestamp": 7.2,
+      "text": "Quick Kitchen Guide: Step 2",
+      "confidence": 0.7287
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0017",
+      "frame_id": "9a31b8c8-d5f_f0003",
+      "timestamp": 7.2,
+      "text": "Fresh Organic Basil & Ripe Tomatoes",
+      "confidence": 0.9992
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0018",
+      "frame_id": "9a31b8c8-d5f_f0003",
+      "timestamp": 7.2,
+      "text": "Ingredients: Red Tomatoes & Sweet Basil",
+      "confidence": 0.9669
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0019",
+      "frame_id": "9a31b8c8-d5f_f0003",
+      "timestamp": 7.2,
+      "text": "Ripe Tomatoes",
+      "confidence": 0.9962
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0020",
+      "frame_id": "9a31b8c8-d5f_f0003",
+      "timestamp": 7.2,
+      "text": "Fresh Basil",
+      "confidence": 0.9084
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0021",
+      "frame_id": "9a31b8c8-d5f_f0003",
+      "timestamp": 7.2,
+      "text": "Timestamp: 00.07s",
+      "confidence": 0.859
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0022",
+      "frame_id": "9a31b8c8-d5f_f0004",
+      "timestamp": 9.6,
+      "text": "Quick Kitchen Guide: Step 2",
+      "confidence": 0.7287
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0023",
+      "frame_id": "9a31b8c8-d5f_f0004",
+      "timestamp": 9.6,
+      "text": "Fresh Organic Basil & Ripe Tomatoes",
+      "confidence": 0.9992
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0024",
+      "frame_id": "9a31b8c8-d5f_f0004",
+      "timestamp": 9.6,
+      "text": "Ingredients: Red Tomatoes & Sweet Basil",
+      "confidence": 0.9669
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0025",
+      "frame_id": "9a31b8c8-d5f_f0004",
+      "timestamp": 9.6,
+      "text": "Ripe Tomatoes",
+      "confidence": 0.9962
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0026",
+      "frame_id": "9a31b8c8-d5f_f0004",
+      "timestamp": 9.6,
+      "text": "Fresh Basil",
+      "confidence": 0.9084
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0027",
+      "frame_id": "9a31b8c8-d5f_f0004",
+      "timestamp": 9.6,
+      "text": "Timestamp: 00.09s",
+      "confidence": 0.9737
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0028",
+      "frame_id": "9a31b8c8-d5f_f0005",
+      "timestamp": 12.0,
+      "text": "Quick Kitchen Guide: Step 3",
+      "confidence": 0.8829
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0029",
+      "frame_id": "9a31b8c8-d5f_f0005",
+      "timestamp": 12.0,
+      "text": "Cold-Pressed Golden Olive Oil Drizzle",
+      "confidence": 0.8507
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0030",
+      "frame_id": "9a31b8c8-d5f_f0005",
+      "timestamp": 12.0,
+      "text": "Finish: Drizzle on Ceramic Plate",
+      "confidence": 0.9573
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0031",
+      "frame_id": "9a31b8c8-d5f_f0005",
+      "timestamp": 12.0,
+      "text": "Golden Olive Oil",
+      "confidence": 0.9846
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0032",
+      "frame_id": "9a31b8c8-d5f_f0005",
+      "timestamp": 12.0,
+      "text": "Timestamp: 00.12s",
+      "confidence": 0.7205
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0033",
+      "frame_id": "9a31b8c8-d5f_f0006",
+      "timestamp": 14.4,
+      "text": "Quick Kitchen Guide: Step 3",
+      "confidence": 0.8829
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0034",
+      "frame_id": "9a31b8c8-d5f_f0006",
+      "timestamp": 14.4,
+      "text": "Cold-Pressed Golden Olive Oil Drizzle",
+      "confidence": 0.8507
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0035",
+      "frame_id": "9a31b8c8-d5f_f0006",
+      "timestamp": 14.4,
+      "text": "Finish: Drizzle on Ceramic Plate",
+      "confidence": 0.9573
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0036",
+      "frame_id": "9a31b8c8-d5f_f0006",
+      "timestamp": 14.4,
+      "text": "Golden Olive Oil",
+      "confidence": 0.9846
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0037",
+      "frame_id": "9a31b8c8-d5f_f0006",
+      "timestamp": 14.4,
+      "text": "Timestamp: 00:14s",
+      "confidence": 0.8612
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0038",
+      "frame_id": "9a31b8c8-d5f_f0007",
+      "timestamp": 15.36,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9806
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0039",
+      "frame_id": "9a31b8c8-d5f_f0007",
+      "timestamp": 15.36,
+      "text": "Phase 1: 3D LiDAR Sensor Array Active",
+      "confidence": 0.9828
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0040",
+      "frame_id": "9a31b8c8-d5f_f0007",
+      "timestamp": 15.36,
+      "text": "Telemetry: Mission Start at 15s",
+      "confidence": 0.9231
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0041",
+      "frame_id": "9a31b8c8-d5f_f0007",
+      "timestamp": 15.36,
+      "text": "LiDAR Sensor Array",
+      "confidence": 0.7181
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0042",
+      "frame_id": "9a31b8c8-d5f_f0007",
+      "timestamp": 15.36,
+      "text": "Timestamp: 00.15s",
+      "confidence": 0.8925
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0043",
+      "frame_id": "9a31b8c8-d5f_f0008",
+      "timestamp": 17.76,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9842
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0044",
+      "frame_id": "9a31b8c8-d5f_f0008",
+      "timestamp": 17.76,
+      "text": "Phase 1: 3D LiDAR Sensor Array Active",
+      "confidence": 0.9804
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0045",
+      "frame_id": "9a31b8c8-d5f_f0008",
+      "timestamp": 17.76,
+      "text": "Telemetry: Mission Start at 15s",
+      "confidence": 0.9455
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0046",
+      "frame_id": "9a31b8c8-d5f_f0008",
+      "timestamp": 17.76,
+      "text": "LiDAR Sensor Array",
+      "confidence": 0.7181
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0047",
+      "frame_id": "9a31b8c8-d5f_f0008",
+      "timestamp": 17.76,
+      "text": "Timestamp: 00.17s",
+      "confidence": 0.7873
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0048",
+      "frame_id": "9a31b8c8-d5f_f0009",
+      "timestamp": 20.16,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9806
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0049",
+      "frame_id": "9a31b8c8-d5f_f0009",
+      "timestamp": 20.16,
+      "text": "Phase 2: Obstacle Alert at 2.0m Distance",
+      "confidence": 0.8668
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0050",
+      "frame_id": "9a31b8c8-d5f_f0009",
+      "timestamp": 20.16,
+      "text": "Navigation: Rapid Left Turn Maneuver",
+      "confidence": 0.9717
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0051",
+      "frame_id": "9a31b8c8-d5f_f0009",
+      "timestamp": 20.16,
+      "text": "HAZARD 2. 0m",
+      "confidence": 0.3707
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0052",
+      "frame_id": "9a31b8c8-d5f_f0009",
+      "timestamp": 20.16,
+      "text": "Left Turn",
+      "confidence": 0.985
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0053",
+      "frame_id": "9a31b8c8-d5f_f0009",
+      "timestamp": 20.16,
+      "text": "Timestamp: 00.20s",
+      "confidence": 0.9188
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0054",
+      "frame_id": "9a31b8c8-d5f_f0010",
+      "timestamp": 22.56,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.976
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0055",
+      "frame_id": "9a31b8c8-d5f_f0010",
+      "timestamp": 22.56,
+      "text": "Phase 2: Obstacle Alert at 2.0m Distance",
+      "confidence": 0.699
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0056",
+      "frame_id": "9a31b8c8-d5f_f0010",
+      "timestamp": 22.56,
+      "text": "Navigation: Rapid Left Turn Maneuver",
+      "confidence": 0.9753
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0057",
+      "frame_id": "9a31b8c8-d5f_f0010",
+      "timestamp": 22.56,
+      "text": "HAZARD 2. 0m",
+      "confidence": 0.3707
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0058",
+      "frame_id": "9a31b8c8-d5f_f0010",
+      "timestamp": 22.56,
+      "text": "Left Turn",
+      "confidence": 0.6686
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0059",
+      "frame_id": "9a31b8c8-d5f_f0010",
+      "timestamp": 22.56,
+      "text": "Timestamp: 00.22s",
+      "confidence": 0.984
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0060",
+      "frame_id": "9a31b8c8-d5f_f0011",
+      "timestamp": 24.96,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.976
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0061",
+      "frame_id": "9a31b8c8-d5f_f0011",
+      "timestamp": 24.96,
+      "text": "Phase 2: Obstacle Alert at 2.0m Distance",
+      "confidence": 0.699
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0062",
+      "frame_id": "9a31b8c8-d5f_f0011",
+      "timestamp": 24.96,
+      "text": "Navigation: Rapid Left Turn Maneuver",
+      "confidence": 0.9753
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0063",
+      "frame_id": "9a31b8c8-d5f_f0011",
+      "timestamp": 24.96,
+      "text": "HAZARD 2. 0m",
+      "confidence": 0.3707
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0064",
+      "frame_id": "9a31b8c8-d5f_f0011",
+      "timestamp": 24.96,
+      "text": "Left Turn",
+      "confidence": 0.6686
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0065",
+      "frame_id": "9a31b8c8-d5f_f0011",
+      "timestamp": 24.96,
+      "text": "Timestamp: 00.24s",
+      "confidence": 0.7667
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0066",
+      "frame_id": "9a31b8c8-d5f_f0012",
+      "timestamp": 27.36,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9776
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0067",
+      "frame_id": "9a31b8c8-d5f_f0012",
+      "timestamp": 27.36,
+      "text": "Phase 3: Waypoint Bravo Reached",
+      "confidence": 0.9728
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0068",
+      "frame_id": "9a31b8c8-d5f_f0012",
+      "timestamp": 27.36,
+      "text": "Mission Outcome: Target Secured at 265",
+      "confidence": 0.8979
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0069",
+      "frame_id": "9a31b8c8-d5f_f0012",
+      "timestamp": 27.36,
+      "text": "WAYPOINT BRAVO",
+      "confidence": 0.9124
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0070",
+      "frame_id": "9a31b8c8-d5f_f0012",
+      "timestamp": 27.36,
+      "text": "Timestamp: 00.27s",
+      "confidence": 0.9709
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0071",
+      "frame_id": "9a31b8c8-d5f_f0013",
+      "timestamp": 29.76,
+      "text": "Autonomous Robotics Lab: Mission Log",
+      "confidence": 0.9776
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0072",
+      "frame_id": "9a31b8c8-d5f_f0013",
+      "timestamp": 29.76,
+      "text": "Phase 3: Waypoint Bravo Reached",
+      "confidence": 0.9728
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0073",
+      "frame_id": "9a31b8c8-d5f_f0013",
+      "timestamp": 29.76,
+      "text": "Mission Outcome: Target Secured at 265",
+      "confidence": 0.8753
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0074",
+      "frame_id": "9a31b8c8-d5f_f0013",
+      "timestamp": 29.76,
+      "text": "WAYPOINT BRAVO",
+      "confidence": 0.9124
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0075",
+      "frame_id": "9a31b8c8-d5f_f0013",
+      "timestamp": 29.76,
+      "text": "Timestamp: 00.29s",
+      "confidence": 0.8397
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0076",
+      "frame_id": "9a31b8c8-d5f_f0014",
+      "timestamp": 32.16,
+      "text": "Computer Vision Lecture: Image Blur",
+      "confidence": 0.7875
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0077",
+      "frame_id": "9a31b8c8-d5f_f0014",
+      "timestamp": 32.16,
+      "text": "Gaussian Filtering & 2D Convolution",
+      "confidence": 0.9064
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0078",
+      "frame_id": "9a31b8c8-d5f_f0014",
+      "timestamp": 32.16,
+      "text": "Mathematical Kernel: Blur & Noise Reduction",
+      "confidence": 0.5694
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0079",
+      "frame_id": "9a31b8c8-d5f_f0014",
+      "timestamp": 32.16,
+      "text": "Yellow Square Kernel",
+      "confidence": 0.851
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0080",
+      "frame_id": "9a31b8c8-d5f_f0014",
+      "timestamp": 32.16,
+      "text": "Timestamp: 00.32s",
+      "confidence": 0.5799
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0081",
+      "frame_id": "9a31b8c8-d5f_f0015",
+      "timestamp": 34.56,
+      "text": "Computer Vision Lecture: Image Blur",
+      "confidence": 0.7875
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0082",
+      "frame_id": "9a31b8c8-d5f_f0015",
+      "timestamp": 34.56,
+      "text": "Gaussian Filtering & 2D Convolution",
+      "confidence": 0.9064
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0083",
+      "frame_id": "9a31b8c8-d5f_f0015",
+      "timestamp": 34.56,
+      "text": "Mathematical Kernel: Blur & Noise Reduction",
+      "confidence": 0.8161
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0084",
+      "frame_id": "9a31b8c8-d5f_f0015",
+      "timestamp": 34.56,
+      "text": "Yellow Square Kernel",
+      "confidence": 0.7198
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0085",
+      "frame_id": "9a31b8c8-d5f_f0015",
+      "timestamp": 34.56,
+      "text": "Timestamp: 00.34s",
+      "confidence": 0.7576
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0086",
+      "frame_id": "9a31b8c8-d5f_f0016",
+      "timestamp": 36.96,
+      "text": "Computer Vision Lecture: Image Blur",
+      "confidence": 0.7875
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0087",
+      "frame_id": "9a31b8c8-d5f_f0016",
+      "timestamp": 36.96,
+      "text": "Gaussian Filtering & 2D Convolution",
+      "confidence": 0.9064
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0088",
+      "frame_id": "9a31b8c8-d5f_f0016",
+      "timestamp": 36.96,
+      "text": "Mathematical Kernel: Blur & Noise Reduction",
+      "confidence": 0.8161
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0089",
+      "frame_id": "9a31b8c8-d5f_f0016",
+      "timestamp": 36.96,
+      "text": "Yellow Square Kernel",
+      "confidence": 0.6237
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0090",
+      "frame_id": "9a31b8c8-d5f_f0016",
+      "timestamp": 36.96,
+      "text": "Timestamp: 00.36s",
+      "confidence": 0.8735
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0091",
+      "frame_id": "9a31b8c8-d5f_f0017",
+      "timestamp": 39.36,
+      "text": "Computer Vision Lecture: Image Blur",
+      "confidence": 0.7875
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0092",
+      "frame_id": "9a31b8c8-d5f_f0017",
+      "timestamp": 39.36,
+      "text": "Gaussian Filtering & 2D Convolution",
+      "confidence": 0.8078
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0093",
+      "frame_id": "9a31b8c8-d5f_f0017",
+      "timestamp": 39.36,
+      "text": "Mathematical Kernel: Blur & Noise Reduction",
+      "confidence": 0.5694
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0094",
+      "frame_id": "9a31b8c8-d5f_f0017",
+      "timestamp": 39.36,
+      "text": "Yellow Square Kernel",
+      "confidence": 0.8751
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0095",
+      "frame_id": "9a31b8c8-d5f_f0017",
+      "timestamp": 39.36,
+      "text": "Timestamp: 00.39s",
+      "confidence": 0.8807
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0096",
+      "frame_id": "9a31b8c8-d5f_f0018",
+      "timestamp": 41.76,
+      "text": "Computer Vision Lecture: Image Blur",
+      "confidence": 0.7358
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0097",
+      "frame_id": "9a31b8c8-d5f_f0018",
+      "timestamp": 41.76,
+      "text": "Gaussian Filtering & 2D Convolution",
+      "confidence": 0.9589
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0098",
+      "frame_id": "9a31b8c8-d5f_f0018",
+      "timestamp": 41.76,
+      "text": "Mathematical Kernel: Blur & Noise Reduction",
+      "confidence": 0.7752
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0099",
+      "frame_id": "9a31b8c8-d5f_f0018",
+      "timestamp": 41.76,
+      "text": "Yellow Square Kernel",
+      "confidence": 0.8073
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0100",
+      "frame_id": "9a31b8c8-d5f_f0018",
+      "timestamp": 41.76,
+      "text": "Timestamp: 00:41s",
+      "confidence": 0.5797
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0101",
+      "frame_id": "9a31b8c8-d5f_f0019",
+      "timestamp": 44.16,
+      "text": "Computer Vision Lecture: Image Blur",
+      "confidence": 0.7358
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0102",
+      "frame_id": "9a31b8c8-d5f_f0019",
+      "timestamp": 44.16,
+      "text": "Gaussian Filtering & 2D Convolution",
+      "confidence": 0.9589
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0103",
+      "frame_id": "9a31b8c8-d5f_f0019",
+      "timestamp": 44.16,
+      "text": "Mathematical Kernel: Blur & Noise Reduction",
+      "confidence": 0.7752
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0104",
+      "frame_id": "9a31b8c8-d5f_f0019",
+      "timestamp": 44.16,
+      "text": "Yellow Square Kernel",
+      "confidence": 0.6775
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0105",
+      "frame_id": "9a31b8c8-d5f_f0019",
+      "timestamp": 44.16,
+      "text": "Timestamp: 00.44s",
+      "confidence": 0.7344
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0106",
+      "frame_id": "9a31b8c8-d5f_f0020",
+      "timestamp": 46.56,
+      "text": "Multimodal RAG: Temporal Grounding",
+      "confidence": 0.9009
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0107",
+      "frame_id": "9a31b8c8-d5f_f0020",
+      "timestamp": 46.56,
+      "text": "FAISS Vector Search & Chronological Context",
+      "confidence": 0.7899
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0108",
+      "frame_id": "9a31b8c8-d5f_f0020",
+      "timestamp": 46.56,
+      "text": "Visual Embeddings & Transcript Alignment",
+      "confidence": 0.8704
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0109",
+      "frame_id": "9a31b8c8-d5f_f0020",
+      "timestamp": 46.56,
+      "text": "Vector Node",
+      "confidence": 0.6806
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0110",
+      "frame_id": "9a31b8c8-d5f_f0020",
+      "timestamp": 46.56,
+      "text": "Timestamp: 00.46s",
+      "confidence": 0.6508
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0111",
+      "frame_id": "9a31b8c8-d5f_f0021",
+      "timestamp": 48.96,
+      "text": "Multimodal RAG: Temporal Grounding",
+      "confidence": 0.9009
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0112",
+      "frame_id": "9a31b8c8-d5f_f0021",
+      "timestamp": 48.96,
+      "text": "FAISS Vector Search & Chronological Context",
+      "confidence": 0.7439
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0113",
+      "frame_id": "9a31b8c8-d5f_f0021",
+      "timestamp": 48.96,
+      "text": "Visual Embeddings & Transcript Alignment",
+      "confidence": 0.8704
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0114",
+      "frame_id": "9a31b8c8-d5f_f0021",
+      "timestamp": 48.96,
+      "text": "Vector Node",
+      "confidence": 0.709
+    },
+    {
+      "type": "ocr",
+      "id": "9a31b8c8-d5f_ocr_0115",
+      "frame_id": "9a31b8c8-d5f_f0021",
+      "timestamp": 48.96,
+      "text": "Timestamp: 00.48s",
+      "confidence": 0.7484
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "video_id": "fb704213-3e9",
+  "visual_metadata": [
+    {
+      "frame_id": "fb704213-3e9_f0000",
+      "frame_idx": 0,
+      "timestamp": 0.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0000_0.00s.jpg",
+      "difference_score": 1.0,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0001",
+      "frame_idx": 1,
+      "timestamp": 1.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0001_1.00s.jpg",
+      "difference_score": 0.0882,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0002",
+      "frame_idx": 2,
+      "timestamp": 3.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0002_3.00s.jpg",
+      "difference_score": 0.0737,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0003",
+      "frame_idx": 3,
+      "timestamp": 5.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0003_5.00s.jpg",
+      "difference_score": 0.0795,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0004",
+      "frame_idx": 4,
+      "timestamp": 5.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0004_5.50s.jpg",
+      "difference_score": 0.0881,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0005",
+      "frame_idx": 5,
+      "timestamp": 7.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0005_7.50s.jpg",
+      "difference_score": 0.143,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0006",
+      "frame_idx": 6,
+      "timestamp": 9.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0006_9.50s.jpg",
+      "difference_score": 0.0496,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0007",
+      "frame_idx": 7,
+      "timestamp": 11.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0007_11.00s.jpg",
+      "difference_score": 0.0857,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0008",
+      "frame_idx": 8,
+      "timestamp": 11.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0008_11.50s.jpg",
+      "difference_score": 0.1629,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0009",
+      "frame_idx": 9,
+      "timestamp": 12.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0009_12.50s.jpg",
+      "difference_score": 0.2145,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0010",
+      "frame_idx": 10,
+      "timestamp": 13.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0010_13.00s.jpg",
+      "difference_score": 0.17,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0011",
+      "frame_idx": 11,
+      "timestamp": 13.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0011_13.50s.jpg",
+      "difference_score": 0.1008,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0012",
+      "frame_idx": 12,
+      "timestamp": 14.0,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0012_14.00s.jpg",
+      "difference_score": 0.086,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0013",
+      "frame_idx": 13,
+      "timestamp": 14.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0013_14.50s.jpg",
+      "difference_score": 0.1445,
+      "is_keyframe": true
+    },
+    {
+      "frame_id": "fb704213-3e9_f0014",
+      "frame_idx": 14,
+      "timestamp": 15.5,
+      "image_path": "C:\\Projects\\VideoLens\\backend\\data\\videos\\fb704213-3e9\\frames\\frame_0014_15.50s.jpg",
+      "difference_score": 0.2047,
+      "is_keyframe": true
+    }
+  ],
+  "text_metadata": [
+    {
+      "type": "transcript",
+      "id": "fb704213-3e9_t0000",
+      "timestamp": 0.0,
+      "end_time": 7.0,
+      "text": "Thanks for watching."
+    }
+  ]
+}
